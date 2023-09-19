@@ -1,2 +1,2 @@
-# JavaScript
-[JavaScript for tests in POstman](https://github.com/MariaDash/Postman/tree/main/Homework)
+# [JavaScript Homework 1](https://github.com/MariaDash/JavaScript/blob/main/Homework_1.js)
+
