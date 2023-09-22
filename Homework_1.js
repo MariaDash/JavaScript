@@ -57,19 +57,3 @@ if (age_1 < age_2) {
 } else {
   console.log("Technical work");
 }
-// 1* Convert the written code in paragraphs 26-33 into a function that takes age as input.
-// Example: const checkAge = function(age) {
-//   Your transformations
-//   }
-//   Output to the console the result of the function with ages 17, 18, 61
-const CheckAge = function (age) {
-  if (typeof age !== "number") {
-    return "Age must be a number!";
-  }else if  
-  else {
-    return "cool";
-  }
-};
-console.log(CheckAge(17));
-console.log(CheckAge(18));
-console.log(CheckAge(61));
